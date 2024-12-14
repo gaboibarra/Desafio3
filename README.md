@@ -28,3 +28,8 @@
 
 ## 📂 Archivo de Log:
 *-Guarda un informe detallado en un archivo de log con marca de tiempo.*
+
+## 🛠️ Instalación y Uso
+1. git clone https://github.com/tuusuario/tu-repositorio.git
+
+   cd tu-repositorio
