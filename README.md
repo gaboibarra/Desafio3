@@ -43,6 +43,12 @@
 3. Ejecuta el script
    ./informe_completo.sh
 
+## 📝 Ejemplo de Salida
+*-Salida en Terminal*
+
+![image](https://github.com/user-attachments/assets/671a8c81-8eaa-4610-bbca-aadb67f92a3a)
+
+
 
 
 
