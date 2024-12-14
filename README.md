@@ -12,8 +12,11 @@
 
 # 💾 Recursos del Sistema:
 *-Uso de disco (raíz y otros puntos de montaje).*
+
 *-Estado de la memoria (en MB).*
+
 *-Uso de la CPU (en %).*
+
 *-Temperatura del sistema (si está disponible).*
 
 🔍 Análisis y Monitorización:
