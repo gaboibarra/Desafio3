@@ -21,9 +21,13 @@
 
 ## 🔍 Análisis y Monitorización:
 *-Lista de usuarios conectados.*
+
 *-Servicios activos en el sistema.*
+
 *-Estadísticas de red.*
+
 *-Procesos con mayor consumo de CPU y memoria.*
+
 *-Búsqueda de procesos específicos.*
 
 ## 📂 Archivo de Log:
