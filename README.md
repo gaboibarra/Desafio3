@@ -30,6 +30,36 @@
 *-Guarda un informe detallado en un archivo de log con marca de tiempo.*
 
 ## 🛠️ Instalación y Uso
-1. git clone https://github.com/tuusuario/tu-repositorio.git
+   
+1. Clona el repositorio:   
+   git clone https://github.com/tuusuario/tu-repositorio.git
 
    cd tu-repositorio
+2. Configura los permisos del script
+   Asegúrate de que el script tenga permisos de ejecución:
+
+   chmod +x informe_completo.sh
+
+3. Ejecuta el script
+   ./informe_completo.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
