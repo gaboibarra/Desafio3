@@ -19,12 +19,12 @@
 
 *-Temperatura del sistema (si está disponible).*
 
-🔍 Análisis y Monitorización:
-Lista de usuarios conectados.
-Servicios activos en el sistema.
-Estadísticas de red.
-Procesos con mayor consumo de CPU y memoria.
-Búsqueda de procesos específicos.
-📂 Archivo de Log:
+## 🔍 Análisis y Monitorización:
+*-Lista de usuarios conectados.*
+*-Servicios activos en el sistema.*
+*-Estadísticas de red.*
+*-Procesos con mayor consumo de CPU y memoria.*
+*-Búsqueda de procesos específicos.*
 
-Guarda un informe detallado en un archivo de log con marca de tiempo.
+## 📂 Archivo de Log:
+*-Guarda un informe detallado en un archivo de log con marca de tiempo.*
