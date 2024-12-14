@@ -5,12 +5,12 @@
 
 # 🚀 Funcionalidades
 
-# 📅 Información General:
+## 📅 Información General:
 *-Fecha y hora actual.*
 
 *-Información del sistema operativo y del kernel.*
 
-# 💾 Recursos del Sistema:
+## 💾 Recursos del Sistema:
 *-Uso de disco (raíz y otros puntos de montaje).*
 
 *-Estado de la memoria (en MB).*
