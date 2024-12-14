@@ -72,7 +72,33 @@
 
 ![image](https://github.com/user-attachments/assets/4a277bb8-61b7-49b1-84bc-4baa6d7aa6d8)
 
+## Archivo de Log
+*Un archivo de log con la salida completa se genera automáticamente:*
+**sistema_informe_20241214_191206.log**
 
+## 🌟 Características Avanzadas
+*-Modularidad: Cada funcionalidad está encapsulada en funciones independientes para facilitar la reutilización.*
+
+*-Manejo de errores: Uso de set -euo pipefail para garantizar la robustez del script.*
+
+*-Compatibilidad: Diseñado para adaptarse a la mayoría de distribuciones Linux (Ubuntu, Debian, CentOS, etc.).*
+
+*-Logs automatizados: Útil para auditorías o seguimiento histórico del sistema.*
+
+## 📦 Requisitos
+**Este script utiliza los siguientes comandos. Asegúrate de tenerlos instalados:**
+
+*-bash (interprete de shell)*
+
+*-df, free, ps, who, top, netstat*
+
+*-Opcional: sensors, lsb_release*
+
+## 🛡️ Notas de Seguridad
+**Ejecuta este script solo en sistemas en los que tengas permisos adecuados, ya que se accede a información del sistema que podría ser sensible.**
+
+## 📧 Contacto
+Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
 
 
