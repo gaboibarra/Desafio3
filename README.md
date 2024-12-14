@@ -7,6 +7,7 @@
 
 # 📅 Información General:
 *-Fecha y hora actual.*
+
 *-Información del sistema operativo y del kernel.*
 
 # 💾 Recursos del Sistema:
