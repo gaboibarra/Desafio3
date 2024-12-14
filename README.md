@@ -100,4 +100,4 @@
 ## 📧 Contacto
 Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
-[Ver el script completo] 
+👉 [informe_completo.sh](informe_completo.sh)
