@@ -100,6 +100,8 @@
 ## 📧 Contacto
 Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
+## **Script Completo**
+
 👉 [informe_completo.sh](informe_completo.sh)
 
 ## 🛠 Tecnologías Utilizadas
