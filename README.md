@@ -100,4 +100,4 @@
 ## 📧 Contacto
 Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
-👉 [informe_completo.sh](carpeta/informe_completo.sh)
+👉 [informe_completo.sh](informe_completo.sh)
