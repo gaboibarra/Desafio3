@@ -101,3 +101,9 @@
 Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
 👉 [informe_completo.sh](informe_completo.sh)
+
+## 🛠 Tecnologías Utilizadas
+
+- 🐚 **Bash**
+- 🖥️ **GitHub**
+- 📄 **Markdown**
